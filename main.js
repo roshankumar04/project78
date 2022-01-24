@@ -1,5 +1,5 @@
-var images= ["https://thumbs.dreamstime.com/b/cartoon-father-son-icon-over-white-background-colorful-design-vector-illustration-cartoon-father-son-icon-flat-design-169226123.jpg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfsByFnSgk0l0cxEIFEs61g2WibuhLJSTxA&usqp=CAU","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRKGa7tL_z8PuJtVcQm1c2RYz2WXZ2APjSQ&usqp=CAU"];
-var names = ["Roshan","Raj naryan","Kusum devi","Nikhil"];
+var images= ["https://i.pinimg.com/originals/f6/80/d7/f680d75feb92472c9d336628a06ede37.jpg","https://cdn5.vectorstock.com/i/1000x1000/89/84/father-with-baby-cartoon-vector-2248984.jpg","https://1.bp.blogspot.com/-Tb8v7iyOWIs/Vv1q8fi5RSI/AAAAAAAABPU/_710P842i-k_vN3A64Ctkl4ZwE4LDZeiQ/s1600/008_maths_1.jpg","https://media.istockphoto.com/vectors/two-boys-smile-and-hug-vector-id625457882?k=6&m=625457882&s=612x612&w=0&h=OFxWm_XMDYZgeKbPcVH4XfbQmWZofu9GIiEMEIsFykU"];
+var names = ["roshan","Raj naryan","Kusum devi","Nikhil & vikas"];
 var i = 0;
 function update()
 {
